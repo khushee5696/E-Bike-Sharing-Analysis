@@ -1,5 +1,5 @@
-# DATA225_FinalProject
-Bike Sharing Analysis
+# E- Bike Sharing Analysis
+
 
 Tableau - https://public.tableau.com/app/profile/bhakti.r5707/viz/Trip1_16523121845600/Dashboard1
 
